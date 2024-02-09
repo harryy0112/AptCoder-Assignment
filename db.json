@@ -1,15 +1,27 @@
 {
   "todos": [
     {
-      "id": "01f4",
-      "title": "hey",
+      "id": "a04c",
+      "title": "aptcoder task is completed",
       "done": true,
       "date": "2/10/2024"
     },
     {
-      "id": "82f0",
-      "title": "I have completed the task of Aptcoder",
+      "id": "3d1b",
+      "title": "all the functionalities are added",
+      "done": true,
+      "date": "2/10/2024"
+    },
+    {
+      "id": "79b4",
+      "title": "only presentation is to be made now",
       "done": false,
+      "date": "2/10/2024"
+    },
+    {
+      "id": "4e03",
+      "title": "hosted on github as well",
+      "done": true,
       "date": "2/10/2024"
     }
   ]

@@ -120,9 +120,11 @@ li {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1em; /* Adjust this to change the internal spacing */
-  margin: 0.5em 0; /* Adjust this to change the external spacing */
-  border-bottom: 1px solid #ddd;
+  padding: 1em;
+  margin: 0.5em 0;
+  border-radius: 4px;
+  background-color: #fff;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
 }
 
 li > span {
