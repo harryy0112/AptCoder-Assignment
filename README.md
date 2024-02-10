@@ -5,11 +5,6 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
 # Getting Started
 
 1. Start the Frontend
