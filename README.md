@@ -10,15 +10,13 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+# Getting Started
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+1. Start the Frontend
+   ```
+   npm run serve
+   ```
+3. Start the Backend Server
+   ```
+   json-server --watch db.json
+   ```
